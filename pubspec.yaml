@@ -1,0 +1,17 @@
+name: bredux
+description: Bloc-based global state manager inspirated by Redux
+version: 0.0.1
+homepage: https://pub.dev/packages/bredux
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^7.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
